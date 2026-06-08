@@ -30,3 +30,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Claude Code (local only — no entregar) ###
+CLAUDE.md
+MEMORY.md
+
+### Archivos generados en runtime ###
+src/main/resources/ventas_registradas/*.txt
